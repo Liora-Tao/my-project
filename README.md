@@ -1,1 +1,1 @@
-Python Code for Amplification Curve Analysis
+Python Code for Amplification Curve Analysis and Digital PCR Image Analysis.
