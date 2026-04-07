@@ -1,3 +1,1 @@
-# my-project
-CNN-LSTM
-Python >= 3.8
+Python Code for Amplification Curve Analysis
